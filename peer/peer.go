@@ -1,13 +1,13 @@
 package peer
 
 import (
-	"github.com/4ad/doozer"
-	"github.com/4ad/doozerd/consensus"
-	"github.com/4ad/doozerd/gc"
-	"github.com/4ad/doozerd/member"
-	"github.com/4ad/doozerd/server"
-	"github.com/4ad/doozerd/store"
-	"github.com/4ad/doozerd/web"
+	"github.com/musicglue/doozer"
+	"github.com/musicglue/doozerd/consensus"
+	"github.com/musicglue/doozerd/gc"
+	"github.com/musicglue/doozerd/member"
+	"github.com/musicglue/doozerd/server"
+	"github.com/musicglue/doozerd/store"
+	"github.com/musicglue/doozerd/web"
 	"io"
 	"log"
 	"net"

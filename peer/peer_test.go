@@ -1,8 +1,8 @@
 package peer
 
 import (
-	"github.com/4ad/doozer"
-	"github.com/4ad/doozerd/store"
+	"github.com/musicglue/doozer"
+	"github.com/musicglue/doozerd/store"
 	"github.com/bmizerany/assert"
 	"os/exec"
 

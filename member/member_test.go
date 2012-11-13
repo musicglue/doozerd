@@ -1,8 +1,8 @@
 package member
 
 import (
-	"github.com/4ad/doozerd/store"
-	"github.com/4ad/doozerd/test"
+	"github.com/musicglue/doozerd/store"
+	"github.com/musicglue/doozerd/test"
 	"github.com/bmizerany/assert"
 	"sort"
 	"testing"

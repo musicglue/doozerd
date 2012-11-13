@@ -9,8 +9,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/4ad/doozer"
-	"github.com/4ad/doozerd/persistence"
+	"github.com/musicglue/doozer"
+	"github.com/musicglue/doozerd/persistence"
 	"os"
 	"strconv"
 )

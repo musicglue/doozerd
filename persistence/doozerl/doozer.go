@@ -3,7 +3,7 @@
 package doozerl
 
 import (
-	"github.com/4ad/doozer"
+	"github.com/musicglue/doozer"
 )
 
 type Conn struct {
